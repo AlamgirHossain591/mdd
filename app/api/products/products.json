@@ -1,0 +1,237 @@
+[
+  {
+    "id": "PRD001",
+    "title": "ডিজাইনার পাঞ্জাবি",
+    "price": 2500,
+    "discountedPrice": 1999,
+    "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?q=80&w=988",
+    "category": "পোশাক",
+    "stock": 60,
+    "variants": [
+      {
+        "size": "M",
+        "color": "সবুজ",
+        "price": 1999,
+        "stock": 30
+      },
+      {
+        "size": "L",
+        "color": "সবুজ",
+        "price": 1999,
+        "stock": 15
+      },
+      {
+        "size": "XL",
+        "color": "সবুজ",
+        "price": 1999,
+        "stock": 10
+      },
+      {
+        "size": "M",
+        "color": "নীল",
+        "price": 2100,
+        "stock": 5
+      }
+    ],
+    "description": "বিশেষ অনুষ্ঠানের জন্য উন্নত মানের সুতি কাপড়ে তৈরি ডিজাইনার পাঞ্জাবি।",
+    "ratings": 4.5,
+    "reviewCount": 120
+  },
+  {
+    "id": "PRD002",
+    "title": "লেডিস কুর্তি",
+    "price": 1800,
+    "discountedPrice": 1499,
+    "image": "https://images.unsplash.com/photo-1559551409-dadc959f76b8?q=80&w=892",
+    "category": "পোশাক",
+    "stock": 54,
+    "variants": [
+      {
+        "size": "S",
+        "color": "লাল",
+        "price": 1499,
+        "stock": 29
+      },
+      {
+        "size": "M",
+        "color": "লাল",
+        "price": 1499,
+        "stock": 10
+      },
+      {
+        "size": "L",
+        "color": "লাল",
+        "price": 1499,
+        "stock": 8
+      },
+      {
+        "size": "M",
+        "color": "গোলাপী",
+        "price": 1599,
+        "stock": 7
+      }
+    ],
+    "description": "অনন্য ডিজাইনের আরামদায়ক কটন কুর্তি, যা যেকোনো অনুষ্ঠানে পরা যাবে।",
+    "ratings": 4.2,
+    "reviewCount": 85
+  },
+  {
+    "id": "PRD003",
+    "title": "জেন্টস কটন শার্ট",
+    "price": 1200,
+    "discountedPrice": 990,
+    "image": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?q=80&w=925",
+    "category": "শার্ট",
+    "stock": 81,
+    "variants": [
+      {
+        "size": "M",
+        "color": "সাদা",
+        "price": 990,
+        "stock": 31
+      },
+      {
+        "size": "L",
+        "color": "সাদা",
+        "price": 990,
+        "stock": 20
+      },
+      {
+        "size": "XL",
+        "color": "সাদা",
+        "price": 990,
+        "stock": 15
+      },
+      {
+        "size": "M",
+        "color": "নীল",
+        "price": 1050,
+        "stock": 15
+      }
+    ],
+    "description": "১০০% কটন ফর্মাল শার্ট, অফিস এবং বিশেষ অনুষ্ঠানের জন্য আদর্শ।",
+    "ratings": 4.7,
+    "reviewCount": 150
+  },
+  {
+    "id": "PRD004",
+    "title": "ডেনিম জিন্স",
+    "price": 1900,
+    "discountedPrice": 1599,
+    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?q=80&w=987",
+    "category": "প্যান্ট",
+    "stock": 63,
+    "variants": [
+      {
+        "size": "30",
+        "color": "গাঢ় নীল",
+        "price": 1599,
+        "stock": 23
+      },
+      {
+        "size": "32",
+        "color": "গাঢ় নীল",
+        "price": 1599,
+        "stock": 15
+      },
+      {
+        "size": "34",
+        "color": "গাঢ় নীল",
+        "price": 1599,
+        "stock": 15
+      },
+      {
+        "size": "32",
+        "color": "কালো",
+        "price": 1699,
+        "stock": 10
+      }
+    ],
+    "description": "প্রিমিয়াম কোয়ালিটি স্ট্রেচেবল ডেনিম জিন্স, স্টাইলিশ এবং আরামদায়ক।",
+    "ratings": 4.4,
+    "reviewCount": 110
+  },
+  {
+    "id": "PRD005",
+    "title": "ক্যাজুয়াল স্নিকার্স",
+    "price": 2200,
+    "discountedPrice": 1799,
+    "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?q=80&w=987",
+    "category": "পোশাক",
+    "stock": 50,
+    "variants": [
+      {
+        "size": "M",
+        "color": "ডিফল্ট",
+        "price": 2200,
+        "stock": 49
+      }
+    ],
+    "description": "হাঁটার জন্য উপযুক্ত, আরামদায়ক এবং টেকসই ক্যাজুয়াল স্নিকার্স।",
+    "ratings": 4.6,
+    "reviewCount": 95
+  },
+  {
+    "id": "PRD006",
+    "title": "লেদার শোল্ডার ব্যাগ",
+    "price": 3500,
+    "discountedPrice": 2999,
+    "image": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?q=80&w=876",
+    "category": "পোশাক",
+    "stock": 52,
+    "variants": [
+      {
+        "size": "M",
+        "color": "ডিফল্ট",
+        "price": 3500,
+        "stock": 51
+      }
+    ],
+    "description": "উচ্চমানের লেদার দিয়ে তৈরি মহিলাদের শোল্ডার ব্যাগ, দৈনন্দিন ব্যবহারের জন্য উপযুক্ত।",
+    "ratings": 4.3,
+    "reviewCount": 75
+  },
+  {
+    "id": "PRD007",
+    "title": "স্বর্ণের হার",
+    "price": 25000,
+    "discountedPrice": 22999,
+    "image": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?q=80&w=988",
+    "category": "শার্ট",
+    "stock": 32,
+    "variants": [
+      {
+        "size": "M",
+        "color": "ডিফল্ট",
+        "price": 25000,
+        "stock": 32
+      }
+    ],
+    "description": "২২ ক্যারেট সোনায় তৈরি অনন্য ডিজাইনের হার, যেকোনো বিশেষ অনুষ্ঠানের জন্য উপযুক্ত।",
+    "ratings": 4.8,
+    "reviewCount": 50
+  },
+  {
+    "id": "PRD008",
+    "title": "ফেসিয়াল ক্রিম সেট",
+    "price": 1800,
+    "discountedPrice": 18.000000000000014,
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?q=80&w=880",
+    "category": "পোশাক",
+    "stock": 105,
+    "variants": [
+      {
+        "size": "M",
+        "color": "ডিফল্ট",
+        "price": 1800,
+        "stock": 105
+      }
+    ],
+    "description": "প্রাকৃতিক উপাদানে তৈরি ফেসিয়াল ক্রিম সেট, ত্বকের যত্নের জন্য।",
+    "ratings": 4.5,
+    "reviewCount": 120,
+    "discountPercent": 99,
+    "weight": 0.5,
+    "additionalImages": []
+  }
+]

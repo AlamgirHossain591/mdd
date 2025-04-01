@@ -1,0 +1,26 @@
+[
+  {
+    "id": "OFFER001",
+    "title": "ঈদ স্পেশাল অফার",
+    "description": "ঈদ উপলক্ষে সকল ফ্যাশন আইটেমে ৩০% পর্যন্ত ছাড়।",
+    "image": "https://images.unsplash.com/photo-1607083206968-13611e3d76db?q=80&w=1000",
+    "discountPercent": 30,
+    "validUntil": "২০২৪-০৬-৩০"
+  },
+  {
+    "id": "OFFER002",
+    "title": "গ্রীষ্মকালীন সেল",
+    "description": "গরমের আরামদায়ক পোশাকে ২৫% ছাড়।",
+    "image": "https://images.unsplash.com/photo-1562157873-818bc0726f68?q=80&w=880",
+    "discountPercent": 25,
+    "validUntil": "২০২৪-০৭-১৫"
+  },
+  {
+    "id": "OFFER003",
+    "title": "শীতের কালেকশন",
+    "description": "নতুন শীতের কালেকশনে বিশেষ মূল্যছাড়।",
+    "image": "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?q=80&w=1000",
+    "discountPercent": 20,
+    "validUntil": "২০২৪-১২-৩১"
+  }
+] 

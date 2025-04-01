@@ -1,0 +1,7 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#f3f4f6" />
+  <rect x="170" y="120" width="60" height="60" rx="5" fill="#e5e7eb" />
+  <path d="M200 140 L180 180 L220 180 Z" fill="#9ca3af" />
+  <circle cx="230" cy="140" r="10" fill="#9ca3af" />
+  <text x="200" y="220" font-family="Arial" font-size="16" fill="#4b5563" text-anchor="middle">আয়ান ফ্যাশন</text>
+</svg> 

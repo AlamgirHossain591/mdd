@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "email": "ch.th.m.d.b@gmail.com",
+    "password": "$2b$10$L44B5H/t2jw5UxrqiBYcyuiKQk9Bsy9yQpVTGu5QmLrUCvhFO6LrC",
+    "name": "Super Admin",
+    "role": "superadmin",
+    "approved": true,
+    "createdAt": "2025-03-30T15:29:03.423Z",
+    "updatedAt": "2025-03-30T15:29:03.423Z"
+  }
+]
